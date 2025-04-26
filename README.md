@@ -1,4 +1,5 @@
-# Pose-Based Squat Assessment: A Rule-Based Framework Using MediaPipe for Fitness Applications
+# Squat Assessment Using Pose Estimation: A Rule-Based Framework for Fitness Applications
+
 
 ## Introduction
 
@@ -92,7 +93,7 @@ The repository implements a Streamlit-based video processing app with real-time 
 1. **Clone the Repository:**
 
    ```bash
-   git clone 
+  git clone https://github.com/BRAIN-Lab-AI/Pose-Recognition-in-Sports?tab=readme-ov-file.git
    ```
 
 2. **Set Up the Environment:**
