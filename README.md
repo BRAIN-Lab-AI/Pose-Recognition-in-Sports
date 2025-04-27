@@ -15,8 +15,8 @@ This project introduces an AI-powered **Squat Analysis System** that leverages p
 
 ### Project Documents
 
-- **Presentation:** [Project Presentation](/[add link])
-- **Report:** [Project Report](/[add link])
+- **Presentation:** [Project Presentation](/[https://github.com/BRAIN-Lab-AI/Pose-Recognition-in-Sports/blob/main/Squat%20Assessment%20Using%20Pose%20Estimation.pptx])
+- **Report:** [Project Report](/[https://github.com/BRAIN-Lab-AI/Pose-Recognition-in-Sports/blob/main/Squat%20Assessment%20Using%20Pose%20Estimation%20Report.pdf])
 
 ### Reference Paper
 
