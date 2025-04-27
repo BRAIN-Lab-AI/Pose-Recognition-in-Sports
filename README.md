@@ -92,9 +92,9 @@ The repository implements a Streamlit-based video processing app with real-time 
 
 1. **Clone the Repository:**
 
-   ```bash
-  git clone https://github.com/BRAIN-Lab-AI/Pose-Recognition-in-Sports?tab=readme-ov-file.git
-   ```
+    ```bash
+    git clone https://github.com/BRAIN-Lab-AI/Pose-Recognition-in-Sports.git
+    ```
 
 2. **Set Up the Environment:**
 
