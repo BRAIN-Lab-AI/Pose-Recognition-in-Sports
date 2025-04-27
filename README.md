@@ -15,8 +15,9 @@ This project introduces an AI-powered **Squat Analysis System** that leverages p
 
 ### Project Documents
 
-- **Presentation:** [Project Presentation](/[https://github.com/BRAIN-Lab-AI/Pose-Recognition-in-Sports/blob/main/Squat%20Assessment%20Using%20Pose%20Estimation.pptx])
-- **Report:** [Project Report](/[https://github.com/BRAIN-Lab-AI/Pose-Recognition-in-Sports/blob/main/Squat%20Assessment%20Using%20Pose%20Estimation%20Report.pdf])
+- **Presentation:** [Project Presentation](https://github.com/BRAIN-Lab-AI/Pose-Recognition-in-Sports/blob/main/Squat%20Assessment%20Using%20Pose%20Estimation.pptx)
+- **Report:** [Project Report](https://github.com/BRAIN-Lab-AI/Pose-Recognition-in-Sports/blob/main/Squat%20Assessment%20Using%20Pose%20Estimation%20Report.pdf)
+
 
 ### Reference Paper
 
@@ -133,6 +134,7 @@ The repository implements a Streamlit-based video processing app with real-time 
 ##  Future Improvements
 
 - [ ] Real-time webcam support
+- [ ] Add more exercises (e.g., lunges, push-ups)
 - [ ] CSV and Excel report exports
 - [ ] Interactive charts (matplotlib / Plotly)
 - [ ] Mobile-friendly UI
