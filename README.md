@@ -5,7 +5,11 @@
 
 This project introduces an AI-powered **Squat Analysis System** that leverages pose estimation and deep learning techniques to evaluate squat form in real-time using video input. Built using **MediaPipe**, **OpenCV**, and **Streamlit**, it accurately tracks key body landmarks and angles to classify posture, count repetitions, and provide actionable feedback. Designed for both beginners and professionals, this system offers a seamless and intuitive interface to help athletes and fitness enthusiasts enhance their workout performance while avoiding incorrect form that may lead to injury.
 
-[![Picture1.png](https://i.postimg.cc/k4dmJg1R/Picture1.png)](https://postimg.cc/WDSKSTPs)
+<p align="center">
+  <a href="https://postimg.cc/WDSKSTPs">
+    <img src="https://i.postimg.cc/k4dmJg1R/Picture1.png" alt="Squat Pose Estimation" width="600"/>
+  </a>
+</p>
 
 ## 📚Project Metadata
 
